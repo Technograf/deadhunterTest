@@ -1,0 +1,1 @@
+{"name":"deadhunter","private":true,"version":"1.0.0","scripts":{"start":"node server.mjs","dev":"node server.mjs"},"engines":{"node":">=18"}}
